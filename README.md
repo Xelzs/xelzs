@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Axentix and its ecosystem
 - 💬 Ask me about anything !
-- 📫 How to reach me: contact@axelsimonet.fr
+- 📫 How to reach me: contact@axelsimonet.fr, Twitter (@AxelSimonet), Linkedin (https://www.linkedin.com/in/axel-simonet/)
 
 <!--
 **Xelzs/xelzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
